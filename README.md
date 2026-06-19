@@ -1,22 +1,26 @@
-# Amazon Sales Analysis Dashboard
+# Blinkit Sales Analysis Dashboard
 
-## Project Overview
-This project analyzes Amazon sales data to identify sales trends, customer behavior, and key business metrics.
+## Overview
+Developed an interactive Power BI dashboard to analyze Blinkit's sales performance, outlet performance, customer ratings, and product distribution.
 
 ## Tools Used
 - Power BI
+- Power Query
+- DAX
 - Excel
-- SQL
 
-## Key Insights
-- Top-performing product categories
-- Monthly sales trends
-- Customer purchasing patterns
+## Key Metrics
+- Total Sales
+- Average Sales
+- Average Rating
+- Number of Items
 
 ## Dashboard Preview
-<img width="800" height="450" alt="blinkit_dashboard" src="https://github.com/user-attachments/assets/e106a579-3fa2-4937-aa55-a92fe56eaffe" />
+<img width="800" height="450" alt="blinkit_dashboard" src="https://github.com/user-attachments/assets/1a6a9cfe-77a6-444c-9624-fb985a415be2" />
 
-## Project Structure
-- Power BI Dashboard (.pbix)
-- Dashboard Screenshot
-- README Documentation
+
+## Key Insights
+- Sales performance by outlet type
+- Sales trends over time
+- Product category analysis
+- Outlet location performance
